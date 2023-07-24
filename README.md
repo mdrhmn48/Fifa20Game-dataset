@@ -1,4 +1,9 @@
 # FIFA 20 Player Analysis Project
+ 
+ # Tableaue Visualization: 
+ ![](https://github.com/mdrhmn48/Fifa20Game-dataset/blob/main/Screenshot_20230724_045631.png)
+
+# link: https://public.tableau.com/app/profile/md.rahman5916/viz/FFIA20/Dashboard2
 
 This project is focused on analyzing and visualizing data related to FIFA 20 players using Python and various libraries, including Pandas, Matplotlib, Seaborn, and Boto3. The goal is to extract insights from the dataset and create visualizations to understand player attributes and distributions.
 Requirements
